@@ -1,4 +1,4 @@
-<h1 align="center">Hello there, I'm Abhijth</h1>
+<h1 align="center">Hello there, I'm abhijith</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/akndmr/akndmr/main/coding.gif">
 
