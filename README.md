@@ -1,6 +1,6 @@
 <h1 align="center">Hello there, I'm abhijith</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/akndmr/akndmr/main/coding.gif">
+<img align="right" alt="Coding" width="400" src="[https://raw.githubusercontent.com/akndmr/akndmr/main/coding.gif](https://i.pinimg.com/236x/e4/26/70/e426702edf874b181aced1e2fa5c6cde.jpg)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijith-dot99&label=Profile%20views&color=0e75b6&style=flat" alt="abhijith-dot99" /> </p>
 
