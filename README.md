@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Wordpress**
 
 - 📫 How to reach me **abhijthm730@gmail.com**
 
